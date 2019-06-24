@@ -1,0 +1,32 @@
+html {
+  border-bottom: 50px solid green;
+  border-left: 50px solid green;
+  border-right: 50px solid green;
+  margin: auto;
+}
+
+body {
+  background-color: rgb(31, 50, 71);
+  color: #ffffff;
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  width: 50%;
+  padding-top: 60px;
+  margin: auto;
+}
+
+form {
+  text-align: center;
+}
