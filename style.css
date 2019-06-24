@@ -1,33 +1,38 @@
-html {
-  font-size: 14px;
-}
-
 body {
   background-color: rgb(31, 50, 71);
   color: #ffffff;
   font-family: "Quicksand", sans-serif;
+  text-align: center;
   border-bottom: 50px solid green;
   border-left: 50px solid green;
   border-right: 50px solid green;
-  margin: auto;
+  margin: 0px;
 }
 
 h1 {
-  text-align: center;
   text-transform: uppercase;
 }
 
 h2 {
-  text-align: center;
+  font-style: italic;
 }
 
 p {
-  text-align: center;
   width: 50%;
   padding-top: 60px;
   margin: auto;
 }
 
 form {
-  text-align: center;
+  font-size: 90%;
+  margin-bottom: 10px;
+}
+
+#sign-up {
+  background-color: goldenrod;
+  height: 70px;
+  width: 110px;
+  border-radius: 20%;
+  margin: 12px;
+  font-size: 1.2em;
 }
